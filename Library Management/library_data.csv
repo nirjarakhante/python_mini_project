@@ -1,0 +1,6 @@
+Book_ID,Title,Author,Category,Issued
+B001,Python Basics,John Mathew,Programming,No
+B002,AI Fundamentals,Jane Watson,AI,Yes
+B003,Data Science Handbook,Mark Lee,Data Science,No
+B004,Machine Learning Intro,Alan Turing,AI,Yes
+B005,Database Systems,David Kim,Database,No
